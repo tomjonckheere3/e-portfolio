@@ -4,12 +4,6 @@ import PostBody from "../../components/post-body";
 import { getAllPosts, getPost } from "../../lib/graphcms";
 
 export default function Post({ post }) {
-    const router = useRouter()
-
-    if (!router.isFallback && !post?.slug) {
-        return <ErrorPage statusCode={404} />
-    }
-
     return (
         <div className="space-y-14 lg:space-y-24">
             <Head>
