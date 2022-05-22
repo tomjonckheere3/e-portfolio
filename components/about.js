@@ -11,7 +11,9 @@ const About = () => {
                 </h1>
                 <div className="mt-6 text-gray-800 dark:text-white">
                     <p className="mb-4">
-                    
+                        Hi, i'm Tom Jonckheere. I have always been fascinated with computers from a young age. That is why I decided to follow the 
+                        Applied Computer Science training. Now that I have successfully completed my second year I can 
+                        with certainty that I have made the right choice.
                     </p>
                 </div>
             </div>
