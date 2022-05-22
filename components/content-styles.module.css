@@ -1,0 +1,19 @@
+.content {
+  @apply leading-relaxed;
+}
+
+.content p + p {
+  @apply mb-4
+}
+
+.content h1 {
+  @apply mt-8 mb-4 text-2xl font-bold leading-snug;
+}
+
+.content h2 {
+  @apply mt-8 mb-2 text-xl font-bold leading-snug;
+}
+
+.content h3 {
+  @apply mt-8 text-lg font-bold leading-snug;
+}

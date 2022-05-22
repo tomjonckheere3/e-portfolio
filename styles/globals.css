@@ -14,3 +14,16 @@ a {
 * {
   box-sizing: border-box;
 }
+
+i {
+  font-style: normal;
+  font-size: 25px;
+}
+
+i:hover {
+  color: rgb(14 165 233);
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
