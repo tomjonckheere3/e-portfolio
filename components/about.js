@@ -11,7 +11,7 @@ const About = () => {
                 </h1>
                 <div className="mt-6 text-gray-800 dark:text-white">
                     <p className="mb-4">
-                        Hi, i am Tom Jonckheere. I have always been fascinated with computers from a young age. That is why I decided to follow the 
+                        Hi, I am Tom Jonckheere. I have always been fascinated with computers from a young age. That is why I decided to follow the 
                         Applied Computer Science training at Howest. Now that I have successfully completed my second year at Howest I can say
                         with certainty that I have made the right choice.
                     </p>
