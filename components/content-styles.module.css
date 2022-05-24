@@ -17,3 +17,11 @@
 .content h3 {
   @apply mt-8 text-lg font-bold leading-snug;
 }
+
+.content ul {
+   @apply mb-2 ml-6 leading-snug;
+}
+
+.content li {
+ @apply list-disc
+}
